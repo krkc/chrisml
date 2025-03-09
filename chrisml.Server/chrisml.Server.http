@@ -1,0 +1,6 @@
+@chrisml.Server_HostAddress = http://localhost:5037
+
+GET {{chrisml.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
